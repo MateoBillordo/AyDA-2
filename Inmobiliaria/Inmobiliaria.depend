@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1629481304 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_coleccion_inmuebles\inmobiliaria\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<queue>
+	<deque>
+	<set>
+	<map>
+
+1502777230 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_coleccion_inmuebles\inmobiliaria\src\inmueble.cpp
+	"Inmueble.h"
+
+1502717504 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_coleccion_inmuebles\inmobiliaria\include\inmueble.h
+	<iostream>
+
+1629051343 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_coleccion_inmuebles\inmobiliaria\src\coleccion_inmuebles.cpp
+	"Coleccion_Inmuebles.h"
+
+1629051359 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_coleccion_inmuebles\inmobiliaria\include\coleccion_inmuebles.h
+	"Inmueble.h"
+
+1629925823 source:c:\users\mateo\desktop\inmobiliaria\main.cpp
+	<iostream>
+	<limits>
+	<Inmueble.h>
+	<Coleccion_Inmuebles.h>
+
+1502777230 source:c:\users\mateo\desktop\inmobiliaria\src\inmueble.cpp
+	"Inmueble.h"
+
+1502717504 c:\users\mateo\desktop\inmobiliaria\include\inmueble.h
+	<iostream>
+
+1629925600 source:c:\users\mateo\desktop\inmobiliaria\src\coleccion_inmuebles.cpp
+	"Coleccion_Inmuebles.h"
+
+1629921086 c:\users\mateo\desktop\inmobiliaria\include\coleccion_inmuebles.h
+	"Inmueble.h"
+	<map>
+
+1502777230 source:c:\users\mateo\desktop\facultad\2do año\2do cuatrimestre\análisis y diseño de algoritmos 2\laboratorio\ejercicios\inmobiliaria\src\inmueble.cpp
+	"Inmueble.h"
+
+1502717504 c:\users\mateo\desktop\facultad\2do año\2do cuatrimestre\análisis y diseño de algoritmos 2\laboratorio\ejercicios\inmobiliaria\include\inmueble.h
+	<iostream>
+
+1629996819 source:c:\users\mateo\desktop\facultad\2do año\2do cuatrimestre\análisis y diseño de algoritmos 2\laboratorio\ejercicios\inmobiliaria\main.cpp
+	<iostream>
+	<limits>
+	<Inmueble.h>
+	<Coleccion_Inmuebles.h>
+
+1630000885 c:\users\mateo\desktop\facultad\2do año\2do cuatrimestre\análisis y diseño de algoritmos 2\laboratorio\ejercicios\inmobiliaria\include\coleccion_inmuebles.h
+	"Inmueble.h"
+	<map>
+
+1630000873 source:c:\users\mateo\desktop\facultad\2do año\2do cuatrimestre\análisis y diseño de algoritmos 2\laboratorio\ejercicios\inmobiliaria\src\coleccion_inmuebles.cpp
+	"Coleccion_Inmuebles.h"
+	<cassert>
+	<iostream>
+
